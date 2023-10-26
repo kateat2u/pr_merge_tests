@@ -1,1 +1,1 @@
-Featuree 3 (three).
+Feature 3 (three).
